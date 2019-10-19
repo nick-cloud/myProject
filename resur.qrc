@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/sound">
+        <file>Intro.mp3</file>
+    </qresource>
+    <qresource prefix="/picture">
+        <file>65a7076179559fd7b177589a80c3e328.jpg</file>
+        <file>Без имени-1.png</file>
+        <file>Без име34.png</file>
+        <file>Без имени-2.png</file>
+        <file>мой перс24.png</file>
+    </qresource>
+</RCC>
