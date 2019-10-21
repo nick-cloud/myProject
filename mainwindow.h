@@ -7,6 +7,8 @@
 #include <QMediaPlaylist>
 #include <QMediaPlayer>
 #include <QGraphicsRectItem>
+#include "game.h"
+
 
 QT_BEGIN_NAMESPACE
 namespace Ui { class MainWindow; }
